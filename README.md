@@ -1,4 +1,6 @@
 # LeaseSeal
+![927ddb9f-14c9-46d5-b84c-9b793d8b9284](https://github.com/user-attachments/assets/fbdded5c-98bc-4590-9465-efb676a5699a)
+
 
 **Verified lease documents. Tamper-evident. Auditable. Dispute-resistant.**
 
